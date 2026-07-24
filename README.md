@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Omar
 
-<!--
-**omar245/omar245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 JavaScript Developer & Problem Solving Learner
 
-Here are some ideas to get you started:
+I'm a student from Egypt who is currently learning JavaScript, Problem Solving, and Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- JavaScript
+- Node.js
+- Data Structures & Algorithms
+- Codeforces
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- ✅ Become Expert in JavaScript
+- 🚀 Reach Specialist on Codeforces
+- 📚 Learn Backend Development
+- 💼 Build Real Projects
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/omar245
+- Codeforces: (Coming Soon)
+
+---
+⭐ Thanks for visiting my profile!
