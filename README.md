@@ -2,7 +2,7 @@
 
 ### 💻 JavaScript Developer & Problem Solving Learner
 
-I'm a student from Egypt who is currently learning JavaScript, Problem Solving, and Backend Development.
+I'm a student who is currently learning JavaScript, Problem Solving, and Backend Development.
 
 ---
 
@@ -11,14 +11,13 @@ I'm a student from Egypt who is currently learning JavaScript, Problem Solving, 
 - JavaScript
 - Node.js
 - Data Structures & Algorithms
-- Codeforces
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux,ts" />
 </p>
 
 ---
@@ -26,7 +25,6 @@ I'm a student from Egypt who is currently learning JavaScript, Problem Solving, 
 ## 🎯 Goals
 
 - ✅ Become Expert in JavaScript
-- 🚀 Reach Specialist on Codeforces
 - 📚 Learn Backend Development
 - 💼 Build Real Projects
 
@@ -35,7 +33,6 @@ I'm a student from Egypt who is currently learning JavaScript, Problem Solving, 
 ## 📫 Connect with me
 
 - GitHub: https://github.com/omar245
-- Codeforces: (Coming Soon)
 
 ---
 ⭐ Thanks for visiting my profile!
