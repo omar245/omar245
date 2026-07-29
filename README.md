@@ -17,7 +17,7 @@ I'm a student who is currently learning JavaScript, Problem Solving, and Backend
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux,ts" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode,linux,ts" />
 </p>
 
 ---
