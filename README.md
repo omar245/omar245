@@ -26,9 +26,9 @@ I'm a student who is currently learning JavaScript, Problem Solving, and Backend
 
 <!-- CODEWARS:START -->
 
-🏆 Rank: 6 kyu
-⭐ Honor: 213
-✅ Completed Katas: 30
+🏆 Rank: 6 kyu <br>
+⭐ Honor: 213<br>
+✅ Completed Katas: 30<br>
 
 <!-- CODEWARS:END -->
 
