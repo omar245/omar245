@@ -22,11 +22,15 @@ I'm a student who is currently learning JavaScript, Problem Solving, and Backend
 
 ---
 
-## 🎯 Goals
+## 🏆 Codewars
 
-- ✅ Become Expert in JavaScript
-- 📚 Learn Backend Development
-- 💼 Build Real Projects
+<!-- CODEWARS:START -->
+
+🏆 Rank: 6 kyu
+⭐ Honor: 213
+✅ Completed Katas: 30
+
+<!-- CODEWARS:END -->
 
 ---
 
@@ -35,9 +39,8 @@ I'm a student who is currently learning JavaScript, Problem Solving, and Backend
 - GitHub: https://github.com/omar245
 
 ---
+
 ⭐ Thanks for visiting my profile!
-
-
 
 ## 📊 GitHub Stats
 
