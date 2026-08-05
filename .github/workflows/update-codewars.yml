@@ -2,7 +2,7 @@ name: Update Codewars README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # كل يوم الساعة 00:00 UTC
+    - cron: "0 * * * *" # كل يوم الساعة 00:00 UTC
   workflow_dispatch:
 
 permissions:
